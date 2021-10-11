@@ -3,6 +3,10 @@ Write a report that summarizes your updated analysis and compares it with the re
 
 ##Overview
 explain the purpose of this analyis
+The purpose of this analysis is to provide insights about spending and performance
+
+
+The purpose of this analysis is to aid the chief data scientist in using data to provide analysis, reporting, and presentation to provide insights about performance trends and patterns. These insights are used to inform decisions from the school board, at the district level. Analysis includes information on student funding and student standardized tests scores. Aggragate the data and showcase trends in school performance. Aid the school board in making decisions based on budgets and priorities
 
 ##Results
 use bulleted lists and images of DataFrames as support to address the following questions
