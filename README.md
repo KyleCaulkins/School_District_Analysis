@@ -3,10 +3,7 @@ Write a report that summarizes your updated analysis and compares it with the re
 
 ##Overview
 explain the purpose of this analyis
-The purpose of this analysis is to provide insights about spending and performance for a school district. The aggragated data includes information on school funding and student standardized tests scores. These insights are to aid the school board in making decisions based on budgets and educational priorities. The original analysis includes data for all students within the district. Recent evidence suggests the reading and math scores for Thomas High School ninth graders is compromised. The analysis was run again, and is now available without the compromised data.
-
-
-The purpose of this analysis is to aid the chief data scientist in using data to provide analysis, reporting, and presentation to provide insights about performance trends and patterns. These insights are used to inform decisions from the school board, at the district level. Analysis includes information on student funding and student standardized tests scores. Aggragate the data and showcase trends in school performance. Aid the school board in making decisions based on budgets and priorities
+The purpose of this analysis is to provide insights about spending and performance for a school district. The aggregated data includes information on school funding and student standardized tests scores. These insights are to aid the school board in making decisions based on budgets and educational priorities. The original analysis includes data for all students within the district. Recent evidence suggests the reading and math scores for Thomas High School ninth graders is compromised. The analysis was run again, and is now available without the compromised data.
 
 ##Results
 use bulleted lists and images of DataFrames as support to address the following questions
