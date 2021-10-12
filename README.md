@@ -111,5 +111,5 @@ Analysis with Thomas High School(THS) 9th graders removed
 ![Type_Summary2](/Resources/type_summary_RTHS.png)
 
   
-##Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary
+Due to recent evidence that Thomas High School ninth graders data has been compromised, the School District Analyis was re-run. The analysis that does not include the THS ninth graders data does have different results in a few areas, when compared to the original School District Analysis. The most significant is when average math and reading scores are broken down by school and grade. Other areas of change include testing results for Thomas High School, compared to other high schools, the *District Summary* statistics, and the *School Summary* statistics. When looking at these four changes, the removal of THS data lowered average scores by fractions of a percent. Analysis that did not show a signifcant change after THS data was removed, include *Scores by School Spending*,*Scores by School Size*, and *Scores by School Type*.
