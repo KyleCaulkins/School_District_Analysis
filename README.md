@@ -49,8 +49,9 @@ Analysis with Thomas High School(THS) 9th graders removed
 
 ### Scores by Variable
 
-  #### Math Scores by Grade
+#### Math Scores by Grade
 
+The summary for *Math Scores by Grade* is broken out by school. The only data affected is the THS ninth grade scores which are now *NaN*.
 
 Original Analysis
 
@@ -61,6 +62,9 @@ Analysis with Thomas High School(THS) 9th graders removed
 ![Math_Scores2](/Resources/math_scores_by_grade_RTHS.png)
 
 #### Reading Scores by Grade
+
+The summary for *Reading Scores by Grade* is broken out by school. The only data affected is the THS ninth grade scores which are now *NaN*.
+
 Original Analysis
 
 ![Reading_Scores](/Resources/reading_scores_by_grade.png)
@@ -70,6 +74,9 @@ Analysis with Thomas High School(THS) 9th graders removed
 ![Reading_Scores2](/Resources/reading_scores_by_grade_RTHS.png)
 
 #### Scores by School Spending
+
+The removal of THS ninth graders data was not enough to influence the results of *Scores by School Spending*.
+
 Original Analysis
 
 ![Spending_Summary](/Resources/spending_summary.png)
@@ -79,6 +86,9 @@ Analysis with Thomas High School(THS) 9th graders removed
 ![Spending_Summary2](/Resources/spending_summary_RTHS.png)
 
 #### Scores by School Size
+
+The removal of THS ninth graders data was not enough to influence the results of *Scores by School Size*.
+
 Original Analysis
 
 ![Size_Summary](/Resources/size_summary.png)
@@ -88,6 +98,10 @@ Analysis with Thomas High School(THS) 9th graders removed
 ![Size_Summary2](/Resources/size_summary_RTHS.png)
 
 #### Scores by School Type
+
+The removal of THS ninth graders data was not enough to influence the results of *Scores by School Type*.
+
+
 Original Analysis
 
 ![Type_Summary](/Resources/type_summary.png)
